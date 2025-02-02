@@ -10,7 +10,8 @@ Demo Deployed github-github.io Link ->https://abhiran992.github.io/Portfolio/
 
 
 
-![3-about](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/dafbdd7d-5f2c-4bb4-b144-be10260adf5d)
+![image](https://github.com/user-attachments/assets/66ac3981-f930-4f2c-9826-0571ea2b31aa)
+
 
 
 
