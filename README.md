@@ -2,9 +2,7 @@
 # Personal Portfolio Website
 This repository contains the source code and files for my personal portfolio website. The website is built using HTML, CSS, and JavaScript.
 
-Demo Deployed github-github.io Link ->(https://abhiran992.github.io/Portfolio/)
-
-Demo Deployed Youtube  Linkhttps://www.youtube.com/watch?v=0vdxaTmWIeY
+Demo Deployed github-github.io Link ->https://abhiran992.github.io/Portfolio/
 
 # WHITE THEME
 ![1 1- white - porfolio view summary](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/47a29b97-a88f-459b-b368-3250ebdf22f7)
