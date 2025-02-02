@@ -64,48 +64,6 @@ I appreciate any suggestions, feedback, or contributions to enhance this persona
 If you have any questions or inquiries, please feel free to reach out to me through the contact information provided in the website or by using the contact form.
 
 Thank you for visiting my personal portfolio repository! I hope you find it informative and visually appealing.
-.
-.
-.
-.
-
-![4-skills](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/e89f8ab4-8ff3-46af-805a-08678486a78d)
-
-![5-education](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/ed61a95f-5e63-42b2-874a-3a9827941ff4)
-
-![6-exp](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/5e88b31e-b262-4476-b675-0a596421af8b)
-
-![7-project](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/5d946b80-bff8-4261-bbd6-0c245666ffaa)
-
-![7-project](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/b68468a3-3c70-4b10-8de4-e07755401511)
-
-![8-contact](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/8f145e00-e180-40a7-bf2f-bcc010de78dc)
-
-![9-made with love](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/910c92c1-1d98-4c3c-b9d9-3d076560040e)![Uploading 8-contact.PNG…]()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
