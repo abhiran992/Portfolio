@@ -8,7 +8,6 @@ Demo Deployed github-github.io Link ->https://abhiran992.github.io/Portfolio/
 ![image](https://github.com/user-attachments/assets/1ea4b688-6bb9-4cf4-b62d-801696611d95)
 
 
-![2- hi am](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/aeec2a7f-dcfb-4ee5-9a6c-3991fd9b615a)
 
 
 ![3-about](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/dafbdd7d-5f2c-4bb4-b144-be10260adf5d)
