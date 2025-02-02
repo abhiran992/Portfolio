@@ -5,10 +5,7 @@ This repository contains the source code and files for my personal portfolio web
 Demo Deployed github-github.io Link ->https://abhiran992.github.io/Portfolio/
 
 # WHITE THEME
-![![image](https://github.com/user-attachments/assets/1ea4b688-6bb9-4cf4-b62d-801696611d95)
-
-)
-
+![image](https://github.com/user-attachments/assets/1ea4b688-6bb9-4cf4-b62d-801696611d95)
 
 # BLUE THEME
 
