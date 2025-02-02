@@ -7,10 +7,6 @@ Demo Deployed github-github.io Link ->https://abhiran992.github.io/Portfolio/
 # WHITE THEME
 ![image](https://github.com/user-attachments/assets/1ea4b688-6bb9-4cf4-b62d-801696611d95)
 
-# BLUE THEME
-
-![1 2- blue - porfolio view summary](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/4a7dec88-617d-4fb2-8df1-7cfe4dadb254)
-
 
 ![2- hi am](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/aeec2a7f-dcfb-4ee5-9a6c-3991fd9b615a)
 
